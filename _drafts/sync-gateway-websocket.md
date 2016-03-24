@@ -1,7 +1,7 @@
 layout: post
 title:  "How to connect to the Couchbase Sync Gateway over Websockets"
-date:   2016-02-1 10:52:02 -0500
-categories: couchbase sync-gateway websocket
+date:  
+categories: couchbase sync-gateway websocket programming
 ---
 
 ```
